@@ -30,21 +30,57 @@ I believe in learning by building, solving problems, and improving a little ever
 
 ---
 
-## 💻 Technical Skills
+## TECHNICAL EXPERTISE
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css" alt="Java, JavaScript, HTML and CSS" />
+<p align="center">
+  <samp>MY TECHNOLOGY STACK · TOOLS · DEVELOPMENT ENVIRONMENT</samp>
 </p>
 
-### Frameworks & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,react,mysql" alt="Spring Boot, React and MySQL" />
-</p>
+<table width="100%">
+  <tr>
+    <td colspan="2" align="center">
+      <h3>01 / CORE DEVELOPMENT</h3>
+      <img src="https://skillicons.dev/icons?i=java,spring,js,react&theme=dark" alt="Java, Spring Boot, JavaScript and React" />
+      <br/><br/>
+      <strong>Java</strong> &nbsp; · &nbsp; Spring Boot &nbsp; · &nbsp; JavaScript &nbsp; · &nbsp; React
+      <br/>
+      <sub>Primary focus: Java-based application development</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>02 / WEB TECHNOLOGIES</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS and JavaScript" />
+      <br/><br/>
+      <sub>HTML · CSS · JavaScript</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>03 / DATABASE</h3>
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
+      <br/><br/>
+      <sub>MySQL · Relational Database Fundamentals</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>04 / DEVOPS & CLOUD</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,jenkins,aws&theme=dark" alt="Git, GitHub, Jenkins and AWS" />
+      <br/><br/>
+      <sub>Git · GitHub · Jenkins · AWS</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>05 / BUILD & API TOOLS</h3>
+      <br/>
+      <img src="https://img.shields.io/badge/Maven-Build%20Automation-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+      <img src="https://img.shields.io/badge/REST-API%20Fundamentals-00897B?style=flat-square" alt="REST API Fundamentals" />
+      <br/><br/>
+      <sub>Maven · REST API Fundamentals</sub>
+    </td>
+  </tr>
+</table>
 
-### DevOps & Cloud Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,jenkins,aws" alt="Git, GitHub, Jenkins and AWS" />
+<p align="center">
+  <sub>CONTINUOUSLY LEARNING · BUILDING · IMPROVING</sub>
 </p>
 
 ---
