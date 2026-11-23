@@ -1,210 +1,338 @@
-# 👋 Hi, I'm Jitendra Gopi!
+<h1 align="center">Hi, I'm Jitendra Gopi Bellamkonda 👋</h1>
 
-<h3 align="center">Java Developer | Software Engineer | DevOps Enthusiast</h3>
+<h3 align="center">
+  Java Developer · Software Engineer · DevOps Enthusiast
+</h3>
 
 <p align="center">
-  <img src="assets/github-profile-banner.png" alt="Dream, Code, Build, Grow" width="100%" />
+  Building backend systems, full-stack applications, and automated delivery pipelines.
 </p>
 
 <p align="center">
-  <a href="https://github.com/BellamkondaJitendraGopi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Andhra%20Pradesh%2C%20India-blue?style=for-the-badge" alt="Location" />
+  <img
+    src="assets/github-profile-banner.png"
+    alt="Dream, Code, Build, Grow"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Developer-0D1117?style=flat-square&logo=openjdk&logoColor=38BDF8&labelColor=161B22" alt="Java Developer" />
+  <img src="https://img.shields.io/badge/Backend-Spring%20Boot-0D1117?style=flat-square&logo=springboot&logoColor=38BDF8&labelColor=161B22" alt="Spring Boot Backend Development" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=38BDF8&labelColor=161B22" alt="AWS Cloud" />
+  <img src="https://img.shields.io/badge/Andhra%20Pradesh-India-0D1117?style=flat-square&labelColor=161B22" alt="Andhra Pradesh, India" />
+</p>
+
+<p align="center">
+  <a href="#about">About</a> &nbsp;·&nbsp;
+  <a href="#technical-skills">Technical Skills</a> &nbsp;·&nbsp;
+  <a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#certifications">Certifications</a> &nbsp;·&nbsp;
+  <a href="#github-activity">GitHub Activity</a> &nbsp;·&nbsp;
+  <a href="#connect">Connect</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm a Computer Science and Engineering graduate from **KL University**, with a strong interest in Java development, backend engineering, and DevOps.
+I'm a **Computer Science and Engineering graduate from KL University**, with a **9.47/10 CGPA** and a focus on **Java development, backend engineering, and software delivery automation**.
 
-- 🎓 B.Tech in Computer Science and Engineering (2022–2026).
-- 📊 Graduated with a **9.47 CGPA**.
-- ☕ Focused on Java and backend development.
-- 🌐 Exploring full-stack development with React and Spring Boot.
-- ⚙️ Interested in CI/CD, automation, and cloud technologies.
-- 🌱 Continuously learning, building projects, and improving my problem-solving skills.
+I build applications using **Java, Spring Boot, REST APIs, React, and MySQL**, and work with **Git, Jenkins, and AWS** for version control, CI/CD, and cloud workflows. My project work also includes **machine learning-based CI/CD failure prediction using Random Forest and SHAP**.
 
-I believe in learning by building, solving problems, and improving a little every day.
+- **Education:** B.Tech in Computer Science and Engineering · KL University · 2022–2026
+- **Core Stack:** Java · Spring Boot · React · MySQL
+- **Delivery & Cloud:** Git · GitHub · Jenkins · AWS
+- **AI & ML:** Python · Machine Learning · Random Forest · SHAP
+
+> **My approach:** Write clean code. Automate repetitive work. Build with purpose.
 
 ---
 
-## TECHNICAL EXPERTISE
+## Technical Skills
 
 <p align="center">
-  <samp>MY TECHNOLOGY STACK · TOOLS · DEVELOPMENT ENVIRONMENT</samp>
+  <samp>BACKEND ENGINEERING / FULL-STACK DEVELOPMENT / DEVOPS / APPLIED ML</samp>
+</p>
+
+<p align="center">
+  <sub>Expand each panel to view my capabilities.</sub>
 </p>
 
 <table width="100%">
   <tr>
-    <td colspan="2" align="center">
-      <h3>01 / CORE DEVELOPMENT</h3>
-      <img src="https://skillicons.dev/icons?i=java,spring,js,react&theme=dark" alt="Java, Spring Boot, JavaScript and React" />
-      <br/><br/>
-      <strong>Java</strong> &nbsp; · &nbsp; Spring Boot &nbsp; · &nbsp; JavaScript &nbsp; · &nbsp; React
-      <br/>
-      <sub>Primary focus: Java-based application development</sub>
+    <td width="50%" valign="top">
+      <h3>01 &nbsp; Programming Languages</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=java,c,python,js&theme=dark" alt="Java, C, Python, JavaScript" />
+      </p>
+      <p><strong>Java · C · Python · JavaScript</strong></p>
+      <details>
+        <summary><strong>View capabilities</strong></summary>
+        <br />
+        <ul>
+          <li>Java application development and object-oriented programming</li>
+          <li>Programming and problem-solving with C</li>
+          <li>Python scripting and machine learning implementation</li>
+          <li>JavaScript application logic and frontend development</li>
+        </ul>
+      </details>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 &nbsp; Backend Engineering</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=spring,maven&theme=dark" alt="Spring Boot, Maven" />
+      </p>
+      <p><strong>Spring Boot · Maven · REST APIs</strong></p>
+      <details>
+        <summary><strong>View capabilities</strong></summary>
+        <br />
+        <ul>
+          <li>Backend application development with Java and Spring Boot</li>
+          <li>REST API development and application integration</li>
+          <li>Dependency management and application builds with Maven</li>
+          <li>Authentication and role-based application functionality</li>
+        </ul>
+      </details>
     </td>
   </tr>
+
   <tr>
-    <td align="center" width="50%">
-      <h3>02 / WEB TECHNOLOGIES</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS and JavaScript" />
-      <br/><br/>
-      <sub>HTML · CSS · JavaScript</sub>
+    <td width="50%" valign="top">
+      <h3>03 &nbsp; Frontend Development</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark" alt="HTML5, CSS3, JavaScript, React, Vite" />
+      </p>
+      <p><strong>HTML5 · CSS3 · JavaScript · React · Vite</strong></p>
+      <details>
+        <summary><strong>View capabilities</strong></summary>
+        <br />
+        <ul>
+          <li>Component-based interfaces with React</li>
+          <li>Reusable frontend components and organized application structure</li>
+          <li>Responsive layouts and visual styling with HTML and CSS</li>
+          <li>Frontend development and build workflows with Vite</li>
+        </ul>
+      </details>
     </td>
-    <td align="center" width="50%">
-      <h3>03 / DATABASE</h3>
-      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
-      <br/><br/>
-      <sub>MySQL · Relational Database Fundamentals</sub>
+    <td width="50%" valign="top">
+      <h3>04 &nbsp; Database Engineering</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
+      </p>
+      <p><strong>SQL · MySQL · Relational Databases</strong></p>
+      <details>
+        <summary><strong>View capabilities</strong></summary>
+        <br />
+        <ul>
+          <li>SQL querying and application data management</li>
+          <li>Relational database concepts and data organization</li>
+          <li>MySQL integration with backend applications</li>
+          <li>Database-backed functionality for full-stack projects</li>
+        </ul>
+      </details>
     </td>
   </tr>
+
   <tr>
-    <td align="center" width="50%">
-      <h3>04 / DEVOPS & CLOUD</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,jenkins,aws&theme=dark" alt="Git, GitHub, Jenkins and AWS" />
-      <br/><br/>
-      <sub>Git · GitHub · Jenkins · AWS</sub>
+    <td width="50%" valign="top">
+      <h3>05 &nbsp; DevOps &amp; Cloud</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git,github,jenkins,aws&theme=dark" alt="Git, GitHub, Jenkins, AWS" />
+      </p>
+      <p><strong>Git · GitHub · Jenkins · CI/CD · AWS</strong></p>
+      <details>
+        <summary><strong>View capabilities</strong></summary>
+        <br />
+        <ul>
+          <li>Version control and collaborative development with Git and GitHub</li>
+          <li>Jenkins pipeline configuration and automated builds</li>
+          <li>CI/CD workflows and pipeline metrics analysis</li>
+          <li>AWS cloud concepts and services</li>
+        </ul>
+      </details>
     </td>
-    <td align="center" width="50%">
-      <h3>05 / BUILD & API TOOLS</h3>
-      <br/>
-      <img src="https://img.shields.io/badge/Maven-Build%20Automation-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
-      <img src="https://img.shields.io/badge/REST-API%20Fundamentals-00897B?style=flat-square" alt="REST API Fundamentals" />
-      <br/><br/>
-      <sub>Maven · REST API Fundamentals</sub>
+    <td width="50%" valign="top">
+      <h3>06 &nbsp; Artificial Intelligence &amp; ML</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python for Artificial Intelligence and Machine Learning" />
+      </p>
+      <p><strong>AI · Machine Learning · Random Forest · SHAP</strong></p>
+      <details>
+        <summary><strong>View capabilities</strong></summary>
+        <br />
+        <ul>
+          <li>Artificial intelligence and machine learning fundamentals</li>
+          <li>Predictive modeling with Random Forest</li>
+          <li>CI/CD build-failure prediction using pipeline metrics</li>
+          <li>Model interpretability and feature analysis with SHAP</li>
+        </ul>
+      </details>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <sub>CONTINUOUSLY LEARNING · BUILDING · IMPROVING</sub>
+  <sub>CODE → BUILD → INTEGRATE → AUTOMATE → IMPROVE</sub>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 1. CampusConnect-AIOps — Predictive CI/CD Failure Analysis
+### 01 / CampusConnect-AIOps
+#### Predictive CI/CD Failure Analysis
 
-**An academic DevOps capstone project exploring machine learning techniques for predicting potential CI/CD build and deployment failures.**
+An academic DevOps capstone combining **Spring Boot, Jenkins, and machine learning** to analyze pipeline metrics and predict potential build and deployment failures.
 
-CampusConnect-AIOps explores how development activities and CI/CD pipeline metrics can be used to identify patterns associated with build failures and improve the understanding of software delivery pipelines.
+- Developed a **Java Spring Boot application** with Maven.
+- Configured a **Jenkins CI/CD pipeline** for automated builds.
+- Analyzed build duration, test failures, code changes, and dependency updates.
+- Implemented a **Random Forest prediction prototype** for build-failure analysis.
+- Used **SHAP** to examine feature importance and model predictions.
 
-**Key Implementation Areas:**
-- Developed a Java-based Spring Boot application using Maven.
-- Configured a Jenkins CI/CD pipeline for automated application builds.
-- Worked with pipeline metrics such as build duration, test failures, code changes, and dependency updates.
-- Developed a Random Forest-based machine learning prototype for build-failure prediction.
-- Explored SHAP (SHapley Additive exPlanations) for model interpretability and feature importance analysis.
+**Stack:** `Java` `Spring Boot` `Maven` `Jenkins` `Python` `Random Forest` `SHAP` `MySQL`
 
-**Technology Stack:** Java · Spring Boot · Maven · Jenkins · Python · Machine Learning · Random Forest · SHAP · MySQL
-
-🔗 **Repository:** [CampusConnect-AIOps](https://github.com/BellamkondaJitendraGopi/CampusConnect-AIOps)
-
----
-
-### 2. CampusConnect — Placement Management Portal
-
-**A web-based placement management application designed to connect students, recruiters, and administrators through a centralized platform.**
-
-The application aims to simplify campus recruitment activities by providing dedicated functionality for different users involved in the placement process.
-
-**Key Implementation Areas:**
-- Developed application components for students, recruiters, and administrators.
-- Worked on backend development using Java and Spring Boot.
-- Developed REST API components for application functionality.
-- Integrated MySQL for application data management.
-- Worked on authentication and role-oriented application components.
-
-**Technology Stack:** Java · Spring Boot · MySQL · React · JavaScript · HTML · CSS
-
-🔗 **Repository:** [Browse my repositories](https://github.com/BellamkondaJitendraGopi?tab=repositories)
+<a href="https://github.com/BellamkondaJitendraGopi/CampusConnect-AIOps">
+  <img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View CampusConnect-AIOps Repository" />
+</a>
 
 ---
 
-### 3. ArtVista — Online Art Gallery Platform
+### 02 / CampusConnect
+#### Placement Management Portal
 
-**A team-based full-stack web application concept for showcasing and exploring artwork through a digital gallery.**
+A centralized placement management application connecting **students, recruiters, and administrators** through role-oriented workflows.
 
-ArtVista focuses on creating an interactive platform with a modern frontend and backend integration to organize and present artwork.
+- Developed application components for all three user roles.
+- Built backend functionality using **Java and Spring Boot**.
+- Developed **REST APIs** for application operations.
+- Integrated **MySQL** for persistent data management.
+- Implemented authentication and role-oriented application components.
 
-**Key Implementation Areas:**
-- Developed frontend components using React.
-- Worked with Spring Boot for backend application development.
-- Integrated MySQL for data management.
-- Collaborated on frontend and backend application development.
+**Stack:** `Java` `Spring Boot` `REST APIs` `MySQL` `React` `JavaScript` `HTML` `CSS`
 
-**Technology Stack:** React · Java · Spring Boot · MySQL · JavaScript · HTML · CSS
-
-🔗 **Repository:** [Browse my repositories](https://github.com/BellamkondaJitendraGopi?tab=repositories)
-
----
-
-### 4. Personal Portfolio — Developer Portfolio Website
-
-**A personal portfolio website built to showcase my technical background, projects, education, and development journey.**
-
-The portfolio provides a central place for presenting my work, skills, and professional interests.
-
-**Key Implementation Areas:**
-- Built the frontend using React.
-- Organized the application using reusable components.
-- Developed sections for About, Education, Skills, Projects, and Contact.
-- Used CSS for layout and visual styling.
-- Used Vite as the development and build tool.
-
-**Technology Stack:** React · JavaScript · HTML5 · CSS3 · Vite
-
-🔗 **Repository:** [Browse my repositories](https://github.com/BellamkondaJitendraGopi?tab=repositories)
+<a href="https://github.com/BellamkondaJitendraGopi?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore CampusConnect Repositories" />
+</a>
 
 ---
 
-## 🏆 Certifications & Achievements
+### 03 / ArtVista
+#### Online Art Gallery Platform
 
-- ☁️ **AWS Certified Cloud Practitioner** — Score: 781/1000.
-- 🔴 **Red Hat Certified Enterprise Application Developer (EX183)**.
-- ☕ **NPTEL Programming in Java**.
-- 💎 **CodeChef Diamond 100-Day Badge**.
-- 💻 Regular problem-solving practice on LeetCode and CodeChef.
+A team-based full-stack project for showcasing and exploring artwork through a digital gallery.
+
+- Developed frontend components using **React**.
+- Contributed to backend development with **Spring Boot**.
+- Integrated **MySQL** for application data management.
+- Collaborated across frontend and backend implementation.
+
+**Stack:** `React` `Java` `Spring Boot` `MySQL` `JavaScript` `HTML` `CSS`
+
+<a href="https://github.com/BellamkondaJitendraGopi?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore ArtVista Repositories" />
+</a>
 
 ---
 
-## 📊 GitHub Statistics
+### 04 / Personal Portfolio
+#### Developer Portfolio Website
+
+A React-based portfolio presenting my **projects, technical skills, education, and development journey**.
+
+- Built the frontend using **React and reusable components**.
+- Created dedicated About, Education, Skills, Projects, and Contact sections.
+- Styled layouts and visual elements using **CSS**.
+- Used **Vite** for development and production builds.
+
+**Stack:** `React` `JavaScript` `HTML5` `CSS3` `Vite`
+
+<a href="https://github.com/BellamkondaJitendraGopi?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore Portfolio Repositories" />
+</a>
+
+---
+
+## Certifications
+
+- **AWS Certified Cloud Practitioner**
+- **Red Hat Certified Enterprise Application Developer — EX183**
+- **NPTEL — Programming in Java**
+
+### Coding & Academic Achievements
+
+- **9.47/10 CGPA** — B.Tech, Computer Science and Engineering
+- **CodeChef Diamond 100-Day Badge**
+- **Consistent problem-solving practice** on LeetCode and CodeChef
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BellamkondaJitendraGopi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BellamkondaJitendraGopi&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <samp>CONTRIBUTIONS / REPOSITORY ACTIVITY / LANGUAGE DISTRIBUTION</samp>
 </p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=BellamkondaJitendraGopi&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
----
-
-## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://github.com/BellamkondaJitendraGopi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img
+      height="190"
+      src="./profile/stats.svg"
+      alt="Jitendra Gopi's GitHub contribution statistics"
+    />
   </a>
+  <a href="https://github.com/BellamkondaJitendraGopi?tab=repositories">
+    <img
+      height="190"
+      src="./profile/top-langs.svg"
+      alt="Language distribution across Jitendra Gopi's repositories"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/BellamkondaJitendraGopi">
+    <img
+      width="100%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=BellamkondaJitendraGopi&bg_color=0D1117&color=94A3B8&title_color=38BDF8&line=38BDF8&point=E2E8F0&area_color=38BDF8&area=true&hide_border=true&radius=12&height=280&days=31&custom_title=Contribution%20Activity"
+      alt="GitHub contribution activity over the last 31 days"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Language distribution reflects repository code, not proficiency levels.</sub>
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  Interested in my projects or technical work? Explore my repositories and coding profiles.
+</p>
+
+<p align="center">
+  <a href="https://github.com/BellamkondaJitendraGopi">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub Profile" />
+  </a>
+  &nbsp;
   <a href="https://leetcode.com/klu_2200031918/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=38BDF8" alt="LeetCode Profile" />
   </a>
+  &nbsp;
   <a href="https://www.codechef.com/users/cse_2200031918">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+    <img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=38BDF8" alt="CodeChef Profile" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Dream big. Keep learning. Never stop building."</i>
+  <strong>Dream big. Write clean code. Build with purpose.</strong>
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+  <sub>Thanks for visiting — Jitendra Gopi Bellamkonda</sub>
 </p>
